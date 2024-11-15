@@ -1,0 +1,18 @@
+{
+  "employeeDetails": [
+    {
+      "id": "4231",
+      "empId": "001",
+      "userName": "arjun",
+      "email": "arjun@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "b324",
+      "empId": "002",
+      "userName": "ronit",
+      "email": "ronit@gmail.com",
+      "status": "Active"
+    }
+  ]
+}
